@@ -179,7 +179,7 @@
 
 	[在CentOS 7下安装ELK——Elasticsearch](http://webcache.googleusercontent.com/search?q=cache:RgdnLWZE8T4J:www.jianshu.com/p/4d8ea875f4df+&cd=2&hl=zh-CN&ct=clnk&gl=jp)
 
-	[esg官网](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html#dev-vs-prod)
+	[es官网](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html#dev-vs-prod)
 
 	[修改linux 最大文件限制数 ulimit](http://bian5399.blog.51cto.com/3848702/963662)
 
