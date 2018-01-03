@@ -8,7 +8,7 @@
 
 		composer require elasticsearch/elasticsearch
 
-	>安装composer参考:`http://docs.phpcomposer.com/01-basic-usage.html#Installation`
+	>安装composer参考:[http://docs.phpcomposer.com/01-basic-usage.html#Installation](http://docs.phpcomposer.com/01-basic-usage.html#Installation)
 
 
 1. 连接
